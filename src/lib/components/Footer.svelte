@@ -69,7 +69,7 @@
     <div class="mt-12 flex items-center gap-4 text-xs text-gray-500">
       <div class="flex items-center gap-1 font-bold text-white tracking-wide">
         <div class="w-[2px] h-3 bg-white"></div>
-        ECHO
+        CENSTA
       </div>
       <span>© 2025 All rights reserved</span>
     </div>

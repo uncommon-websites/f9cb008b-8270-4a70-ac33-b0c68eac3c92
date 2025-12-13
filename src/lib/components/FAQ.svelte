@@ -7,13 +7,13 @@
   }
 
   const faqs: FAQItem[] = [
-    { question: "Do I have to trust the lead investor with my investment?", answer: "Details about trust and lead investors..." },
-    { question: "How does Echo work?", answer: "Echo works by connecting..." },
-    { question: "I want to share my deals. Can I start a group?", answer: "Yes, you can start a group by..." },
-    { question: "I'm a founder. How do I raise money from Echo?", answer: "Founders can raise money by..." },
-    { question: "Is everyone eligible to use Echo?", answer: "Eligibility depends on..." },
-    { question: "Why do founders raise from Echo groups?", answer: "Founders choose Echo because..." },
-    { question: "Why would someone share their deals with me?", answer: "Sharing deals allows for..." }
+    { question: "How does fractional ownership work?", answer: "Censta uses securitization technology to divide authenticated collectibles into investable shares. Each share represents partial ownership of a verified asset, allowing you to invest in high-value collectibles without purchasing the entire item." },
+    { question: "Are all collectibles authenticated?", answer: "Yes, every collectible on Censta is expertly authenticated and curated by specialists. We work with leading authentication services to ensure 100% authenticity of stamps, coins, and other alternative assets on our platform." },
+    { question: "Who can invest with Censta?", answer: "Censta is designed for affluent millennials seeking portfolio diversification and high-net-worth collectors. We work with wealth managers and family offices to provide access to authenticated alternative assets." },
+    { question: "What is the secondary market?", answer: "Censta provides transparent secondary market access, allowing you to buy and sell fractional shares of collectibles. This addresses traditional liquidity concerns with alternative assets and gives you flexibility in managing your portfolio." },
+    { question: "What types of collectibles are available?", answer: "We currently offer authenticated stamps, coins, and other rare collectibles. Each asset is selected through our expert curation process, focusing on items with strong historical significance and investment potential." },
+    { question: "How do I get started?", answer: "Simply create an account, browse our curated collection of authenticated collectibles, and start investing in fractional shares. Our platform guides you through the process of diversifying your portfolio with alternative assets." },
+    { question: "What makes Censta different from other platforms?", answer: "Censta combines expert curation, full authentication, securitization technology, and transparent secondary markets. We focus specifically on the $370B alternative assets market, bringing institutional-grade collectibles investing to individual investors." }
   ];
 
   let openIndex: number | null = null;
