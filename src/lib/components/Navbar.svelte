@@ -13,7 +13,7 @@
 
   <div class="hidden md:flex items-center gap-8 absolute left-1/2 -translate-x-1/2">
     <a href="/" class="text-gray-900 hover:text-gray-600">Invest</a>
-    <a href="/" class="text-gray-500 hover:text-gray-900">Learn</a>
+    <a href="/learn" class="text-gray-500 hover:text-gray-900">Learn</a>
     <a href="/about" class="text-gray-500 hover:text-gray-900">About</a>
   </div>
 
